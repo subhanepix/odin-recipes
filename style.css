@@ -1,0 +1,17 @@
+.title {
+  background-color: lightcyan;
+  text-align: center;
+  border-color: gray;
+  border: 10px;
+  padding: 10px;
+}
+
+.list {
+  background-color: lightpink;
+  padding: 2px;
+  margin: 10px;
+}
+
+.list-element {
+  margin: 1px;
+}
